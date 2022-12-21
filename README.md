@@ -1,4 +1,4 @@
-Hi 👋 My name is Ricardo Luiz
+Óla 👋 Meu nome é Ricardo Luiz
 ==========================
 
 Sou um densenvolvedor de 19 anos iniciante cusando Análise e desenvolvimento de sistemas, comecei nessa jornada em Agosto de 2022.
