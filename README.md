@@ -1,19 +1,15 @@
 Hi 👋 My name is Ricardo Luiz
 ==========================
 
-Full Stack Software Developer
------------------------------
+Sou um densenvolvedor de 19 anos iniciante cusando Análise e desenvolvimento de sistemas, comecei nessa jornada em Agosto de 2022.
+Curso na Faculdade Impacta.
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
-
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  Moro em São Paulo, Brasil.
+* ✉️  Você pode entrar em contato comigo em ricardo.luiz.profissional@gmail.com
+* 🚀  Atualmente trabalho na Caserna Industrias e confecções, mas pretendo me firmar o mais rápido possível na área da programação!
+* 🧠  Estou aprendendo javascript, banco de dados e python
+* 🤝  Um dia espero realizar um sonho que é fazer um projeto que vá ajudar pessoas no mundo inteiro, vou estudar e me dedicar o máximo para isso ser possível
+* ⚡  Fora programar e solucionar problemas gerais de tecnologia eu gosto muito de futebol tanto assistir quando jogar!
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
