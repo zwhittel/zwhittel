@@ -10,7 +10,6 @@ Curso na Faculdade Impacta.
 * 🧠  Estou aprendendo javascript, banco de dados e python
 * 🤝  Um dia espero realizar um sonho que é fazer um projeto que vá ajudar pessoas no mundo inteiro, vou estudar e me dedicar o máximo para isso ser possível
 * ⚡  Fora programar e solucionar problemas gerais de tecnologia eu gosto muito de futebol tanto assistir quando jogar!
-* 
 ### Skills
 
 <p align="left">
