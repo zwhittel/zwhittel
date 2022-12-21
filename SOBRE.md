@@ -1,7 +1,7 @@
 Óla 👋 Meu nome é Ricardo Luiz
 ==========================
 
-Sou um densenvolvedor de 19 anos iniciante cusando Análise e desenvolvimento de sistemas, comecei nessa jornada em Agosto de 2022.
+Sou um densenvolvedor de 19 anos iniciante, estou cursando Análise e desenvolvimento de sistemas, comecei nessa jornada em Agosto de 2022.
 Curso na Faculdade Impacta.
 
 * 🌍  Moro em São Paulo, Brasil.
